@@ -1,0 +1,42 @@
+body{
+    color:black;
+    background-color: rgb(3, 142, 223);
+    margin:0px;
+    font-size: 25px
+    
+    
+}
+header{
+    border-bottom: solid 2px gray;
+    padding:10px;
+    font-size: 35px;
+    color: black;
+    font-family: "Danfo", serif;
+}
+section{
+    background: white;
+    padding-bottom: 85px;
+    padding-top: 70px;
+    display:flex;
+    justify-content:first baseline
+}
+ .textv1{
+    margin-right: 5%;
+}
+img{
+    height: 230px;
+}
+
+.VR1{
+   display: flex;
+   overflow-x: auto;
+   gap: 12px
+}
+.s2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.VR1 img{
+opacity: 0.5
+}
+
